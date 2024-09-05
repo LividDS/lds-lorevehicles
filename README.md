@@ -11,8 +11,8 @@ A large collection of high quality, lore friendly vehicles converted from GTA5-m
 * All vehicles can not be used as donator cars and can not be exclusive to one person.
 
 # Install
-* Drag and drop [lds-lorevehicles] into your resources folder.
-* Ensure [lds-lorevehicles] in your [server.cfg].
+* Drag and drop `lds-lorevehicles` into your resources folder.
+* Ensure `lds-lorevehicles` in your `server.cfg`.
 
 # Support
 * I will not offer support on any of these vehicles, everything on my part is in the README. If you want to change any handling files (which for some it's needed), you need to configure it yourself.
