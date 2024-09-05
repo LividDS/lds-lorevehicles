@@ -1,0 +1,2211 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+     <Item>
+      <kitName>6573_nriata_modkit</kitName>
+      <id value="6573" />
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+							  	<!-- NRIATA_LIVERY -->
+	  		   <Item>
+          <modelName>nriata_livery1</modelName>
+          <modShopLabel>nriata_livery1</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>nriata_livery2</modelName>
+          <modShopLabel>nriata_livery2</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>nriata_livery3</modelName>
+          <modShopLabel>nriata_livery3</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>nriata_livery4</modelName>
+          <modShopLabel>nriata_livery4</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																<Item>
+          <modelName>nriata_livery5</modelName>
+          <modShopLabel>nriata_livery5</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																								<Item>
+          <modelName>nriata_livery6</modelName>
+          <modShopLabel>nriata_livery6</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																								<Item>
+          <modelName>nriata_livery7</modelName>
+          <modShopLabel>nriata_livery7</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																								<Item>
+          <modelName>nriata_livery8</modelName>
+          <modShopLabel>nriata_livery8</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																								<Item>
+          <modelName>nriata_livery9</modelName>
+          <modShopLabel>nriata_livery9</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																<Item>
+          <modelName>nriata_livery10</modelName>
+          <modShopLabel>nriata_livery10</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																								<Item>
+          <modelName>nriata_livery11</modelName>
+          <modShopLabel>nriata_livery11</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																<Item>
+          <modelName>nriata_livery12</modelName>
+          <modShopLabel>nriata_livery12</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																<Item>
+          <modelName>nriata_livery13</modelName>
+          <modShopLabel>nriata_livery13</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																<Item>
+          <modelName>nriata_livery14</modelName>
+          <modShopLabel>nriata_livery14</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																<Item>
+          <modelName>nriata_livery15</modelName>
+          <modShopLabel>nriata_livery15</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																<Item>
+          <modelName>nriata_livery16</modelName>
+          <modShopLabel>nriata_livery16</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																<Item>
+          <modelName>nriata_livery17</modelName>
+          <modShopLabel>nriata_livery17</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																<Item>
+          <modelName>nriata_livery18</modelName>
+          <modShopLabel>nriata_livery18</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																<Item>
+          <modelName>nriata_livery19</modelName>
+          <modShopLabel>nriata_livery19</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																<Item>
+          <modelName>nriata_livery20</modelName>
+          <modShopLabel>nriata_livery20</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																<Item>
+          <modelName>nriata_livery21</modelName>
+          <modShopLabel>nriata_livery21</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																								<Item>
+          <modelName>nriata_livery22</modelName>
+          <modShopLabel>nriata_livery22</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																								<Item>
+          <modelName>nriata_livery23</modelName>
+          <modShopLabel>nriata_livery23</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																								<Item>
+          <modelName>nriata_livery24</modelName>
+          <modShopLabel>nriata_livery24</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																								<Item>
+          <modelName>nriata_livery25</modelName>
+          <modShopLabel>nriata_livery25</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																								<Item>
+          <modelName>nriata_livery26</modelName>
+          <modShopLabel>nriata_livery26</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																								<Item>
+          <modelName>nriata_livery27</modelName>
+          <modShopLabel>nriata_livery27</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																								<Item>
+          <modelName>nriata_livery28</modelName>
+          <modShopLabel>nriata_livery28</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																								<Item>
+          <modelName>nriata_livery29</modelName>
+          <modShopLabel>nriata_livery29</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																								<Item>
+          <modelName>nriata_livery30</modelName>
+          <modShopLabel>nriata_livery30</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																																<Item>
+          <modelName>nriata_livery31</modelName>
+          <modShopLabel>nriata_livery31</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																																<Item>
+          <modelName>nriata_livery32</modelName>
+          <modShopLabel>nriata_livery32</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																<!-- NRIATA_HEADLIGHTS -->
+        <Item>
+          <modelName>nriata_headlight1_l</modelName>
+          <modShopLabel>nriata_headlight1_l</modShopLabel>
+          <linkedModels>
+										<item>nriata_headlight1_r</item>
+										</linkedModels>
+          <turnOffBones>
+		        <item>misc_u</item>
+										<item>misc_v</item>
+		        </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>headlight_l</bone>
+          <collisionBone>headlight_l</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <!-- NRIATA_BOOT -->
+											<Item>
+		<modelName>nriata_spoila</modelName>
+		<modShopLabel>nriata_spoila</modShopLabel>
+  <linkedModels />
+  <turnOffBones />
+		<type>VMT_SPOILER</type>
+		<bone>boot</bone>
+		<collisionBone>boot</collisionBone>
+		<cameraPos>VMCP_DEFAULT</cameraPos>
+		<audioApply value="1.00000000"/>
+		<weight value="10"/>
+		<turnOffExtra value="false"/>
+		<disableBonnetCamera value="false"/>
+		<allowBonnetSlide value="true"/>
+		</Item>
+			  <Item>
+		<modelName>nriata_spoila</modelName>
+		<modShopLabel>nriata_spoilaaccs1</modShopLabel>
+          <linkedModels>
+		        <Item>nriata_spoila_accs1</Item>
+		        </linkedModels>
+  <turnOffBones />
+		<type>VMT_SPOILER</type>
+		<bone>boot</bone>
+		<collisionBone>boot</collisionBone>
+		<cameraPos>VMCP_DEFAULT</cameraPos>
+		<audioApply value="1.00000000"/>
+		<weight value="10"/>
+		<turnOffExtra value="false"/>
+		<disableBonnetCamera value="false"/>
+		<allowBonnetSlide value="true"/>
+		</Item>
+			  <Item>
+		<modelName>nriata_sparedelete</modelName>
+		<modShopLabel>nriata_sparedelete</modShopLabel>
+		<linkedModels/>
+          <turnOffBones>
+										<Item>misc_g</Item>
+										<Item>misc_h</Item>
+										</turnOffBones>
+		<type>VMT_SPOILER</type>
+		<bone>boot</bone>
+		<collisionBone>boot</collisionBone>
+		<cameraPos>VMCP_DEFAULT</cameraPos>
+		<audioApply value="1.00000000"/>
+		<weight value="10"/>
+		<turnOffExtra value="false"/>
+		<disableBonnetCamera value="false"/>
+		<allowBonnetSlide value="true"/>
+		</Item>
+									      <!-- NRIATA_FLAPS -->
+		  <Item>
+		  <modelName>nriata_mudflaps_r</modelName>
+          <modShopLabel>nriata_mudflaps_r</modShopLabel>
+          <linkedModels>
+		        <Item>nriata_mudflaps_rf</Item>
+										<Item>nriata_mudflaps_lf</Item>
+		        </linkedModels>
+          <turnOffBones/>
+          <type>VMT_DOOR_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																	  <!-- NRIATA_SEATS -->
+													  <Item>
+		  <modelName>nriata_modseats_01</modelName>
+          <modShopLabel>nriata_modseats_01</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>misc_l</Item>
+										</turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																					  <Item>
+		  <modelName>nriata_modseats_02</modelName>
+          <modShopLabel>nriata_modseats_02</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>misc_l</Item>
+										</turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																					  <Item>
+		  <modelName>nriata_modseats_03</modelName>
+          <modShopLabel>nriata_modseats_03</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>misc_l</Item>
+										</turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																					  <Item>
+		  <modelName>nriata_modseats_04</modelName>
+          <modShopLabel>nriata_modseats_04</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>misc_l</Item>
+										</turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																													  <Item>
+		  <modelName>nriata_modseats_05</modelName>
+          <modShopLabel>nriata_modseats_05</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>misc_l</Item>
+										</turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <!-- NRIATA_FBUMPER -->
+													  <Item>
+		  <modelName>nriata_fbumperaccs1</modelName>
+          <modShopLabel>nriata_fbumperaccs1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		  <Item>
+		  <modelName>nriata_fbumperaccs1</modelName>
+          <modShopLabel>nriata_fbumperaccs1b</modShopLabel>
+          <linkedModels>
+		  <item>nriata_fbumperaccs1b</item>
+		  </linkedModels>
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+										  <Item>
+		  <modelName>nriata_fbumper1</modelName>
+          <modShopLabel>nriata_fbumper1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>bumper_f</Item>
+										<Item>misc_w</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																		  <Item>
+		  <modelName>nriata_fbumper1</modelName>
+          <modShopLabel>nriata_fbumper1accs1</modShopLabel>
+          <linkedModels>
+		  <item>nriata_fbumper1accs1</item>
+		  </linkedModels>
+          <turnOffBones>
+										<Item>bumper_f</Item>
+										<Item>misc_w</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																										  <Item>
+		  <modelName>nriata_fbumper1</modelName>
+          <modShopLabel>nriata_fbumper1accs1a</modShopLabel>
+          <linkedModels>
+		  <item>nriata_fbumperaccs1</item>
+		  </linkedModels>
+          <turnOffBones>
+										<Item>bumper_f</Item>
+										<Item>misc_w</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																		  <Item>
+		  <modelName>nriata_fbumper1</modelName>
+          <modShopLabel>nriata_fbumper1accs1b</modShopLabel>
+          <linkedModels>
+		  <Item>nriata_fbumperaccs1</Item>
+				<Item>nriata_fbumper1accs2</Item>
+		  </linkedModels>
+          <turnOffBones>
+										<Item>bumper_f</Item>
+										<Item>misc_w</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+		  <modelName>nriata_fbumper2</modelName>
+          <modShopLabel>nriata_fbumper2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>bumper_f</Item>
+										<Item>misc_w</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<!-- NRIATA_RBUMPER -->
+												<Item>
+		  <modelName>nriata_rbumper1</modelName>
+          <modShopLabel>nriata_rbumper1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>bumper_r</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																<Item>
+		  <modelName>nriata_rbumper2</modelName>
+          <modShopLabel>nriata_rbumper2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>bumper_r</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+		  <modelName>nriata_rbumper3</modelName>
+          <modShopLabel>nriata_rbumper3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>bumper_r</Item>
+										</turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																	  		<!-- NRIATA_FENDERS -->
+        <Item>
+          <modelName>nriata_wing_rr_01</modelName>
+          <modShopLabel>nriata_wing_rr_01</modShopLabel>
+          <linkedModels>
+										<Item>nriata_wing_rf_01</Item>
+										<Item>nriata_wing_lf_01</Item>
+										</linkedModels>
+          <turnOffBones>
+										<Item>misc_m</Item>
+										<Item>misc_n</Item>
+										<Item>misc_o</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								        <Item>
+          <modelName>nriata_wing_rr_02</modelName>
+          <modShopLabel>nriata_wing_rr_02</modShopLabel>
+          <linkedModels>
+										<Item>nriata_wing_rf_02</Item>
+										<Item>nriata_wing_lf_02</Item>
+										</linkedModels>
+          <turnOffBones>
+										<Item>misc_m</Item>
+										<Item>misc_n</Item>
+										<Item>misc_o</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>nriata_wing_03</modelName>
+          <modShopLabel>nriata_wing_03</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>misc_m</Item>
+										<Item>misc_n</Item>
+										<Item>misc_o</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																        <Item>
+          <modelName>nriata_wing_04</modelName>
+          <modShopLabel>nriata_wing_04</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>misc_m</Item>
+										<Item>misc_n</Item>
+										<Item>misc_o</Item>
+										</turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<!-- NRIATA_ROLLBAR -->
+        <Item>
+          <modelName>nriata_rollbar1</modelName>
+          <modShopLabel>nriata_rollbar1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>misc_b</Item>
+										</turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								        <Item>
+          <modelName>nriata_rollbar2</modelName>
+          <modShopLabel>nriata_rollbar2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+										<Item>misc_b</Item>
+										</turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  		<!-- NRIATA_ROOF_LIGHT -->
+        <Item>
+          <modelName>nriata_rooflite_01</modelName>
+          <modShopLabel>nriata_rooflite_01</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>nriata_rooflite_02</modelName>
+          <modShopLabel>nriata_rooflite_02</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+										<!-- NRIATA_GRILLE -->
+		      <Item>
+				      <modelName>nriata_grille1</modelName>
+		        <modShopLabel>nriata_grille1</modShopLabel>
+		        <linkedModels/>
+          <turnOffBones>
+		        <item>misc_c</item>
+		        </turnOffBones>
+		        <type>VMT_GRILL</type>
+		        <bone>chassis</bone>
+		        <collisionBone>chassis</collisionBone>
+	         <cameraPos>VMCP_DEFAULT</cameraPos>
+		        <audioApply value="1.00000000"/>
+		        <weight value="10"/>
+		        <turnOffExtra value="false"/>
+		        <disableBonnetCamera value="false"/>
+		        <allowBonnetSlide value="true"/>
+		      </Item>
+										      <Item>
+				      <modelName>nriata_grille2</modelName>
+		        <modShopLabel>nriata_grille2</modShopLabel>
+		        <linkedModels/>
+          <turnOffBones>
+		        <item>misc_c</item>
+		        </turnOffBones>
+		        <type>VMT_GRILL</type>
+		        <bone>chassis</bone>
+		        <collisionBone>chassis</collisionBone>
+	         <cameraPos>VMCP_DEFAULT</cameraPos>
+		        <audioApply value="1.00000000"/>
+		        <weight value="10"/>
+		        <turnOffExtra value="false"/>
+		        <disableBonnetCamera value="false"/>
+		        <allowBonnetSlide value="true"/>
+		      </Item>
+										      <Item>
+				      <modelName>nriata_grille3</modelName>
+		        <modShopLabel>nriata_grille3</modShopLabel>
+		        <linkedModels/>
+          <turnOffBones>
+		        <item>misc_c</item>
+		        </turnOffBones>
+		        <type>VMT_GRILL</type>
+		        <bone>chassis</bone>
+		        <collisionBone>chassis</collisionBone>
+	         <cameraPos>VMCP_DEFAULT</cameraPos>
+		        <audioApply value="1.00000000"/>
+		        <weight value="10"/>
+		        <turnOffExtra value="false"/>
+		        <disableBonnetCamera value="false"/>
+		        <allowBonnetSlide value="true"/>
+		      </Item>
+																		      <Item>
+				      <modelName>nriata_grille4</modelName>
+		        <modShopLabel>nriata_grille4</modShopLabel>
+		        <linkedModels/>
+          <turnOffBones>
+		        <item>misc_c</item>
+		        </turnOffBones>
+		        <type>VMT_GRILL</type>
+		        <bone>chassis</bone>
+		        <collisionBone>chassis</collisionBone>
+	         <cameraPos>VMCP_DEFAULT</cameraPos>
+		        <audioApply value="1.00000000"/>
+		        <weight value="10"/>
+		        <turnOffExtra value="false"/>
+		        <disableBonnetCamera value="false"/>
+		        <allowBonnetSlide value="true"/>
+		      </Item>
+																		      <Item>
+				      <modelName>nriata_grille5</modelName>
+		        <modShopLabel>nriata_grille5</modShopLabel>
+		        <linkedModels/>
+          <turnOffBones>
+		        <item>misc_c</item>
+		        </turnOffBones>
+		        <type>VMT_GRILL</type>
+		        <bone>chassis</bone>
+		        <collisionBone>chassis</collisionBone>
+	         <cameraPos>VMCP_DEFAULT</cameraPos>
+		        <audioApply value="1.00000000"/>
+		        <weight value="10"/>
+		        <turnOffExtra value="false"/>
+		        <disableBonnetCamera value="false"/>
+		        <allowBonnetSlide value="true"/>
+		      </Item>
+																		      <Item>
+				      <modelName>nriata_grille6</modelName>
+		        <modShopLabel>nriata_grille6</modShopLabel>
+		        <linkedModels/>
+          <turnOffBones>
+		        <item>misc_c</item>
+		        </turnOffBones>
+		        <type>VMT_GRILL</type>
+		        <bone>chassis</bone>
+		        <collisionBone>chassis</collisionBone>
+	         <cameraPos>VMCP_DEFAULT</cameraPos>
+		        <audioApply value="1.00000000"/>
+		        <weight value="10"/>
+		        <turnOffExtra value="false"/>
+		        <disableBonnetCamera value="false"/>
+		        <allowBonnetSlide value="true"/>
+		      </Item>
+																		      <Item>
+				      <modelName>nriata_grille7</modelName>
+		        <modShopLabel>nriata_grille7</modShopLabel>
+		        <linkedModels/>
+          <turnOffBones>
+		        <item>misc_c</item>
+		        </turnOffBones>
+		        <type>VMT_GRILL</type>
+		        <bone>chassis</bone>
+		        <collisionBone>chassis</collisionBone>
+	         <cameraPos>VMCP_DEFAULT</cameraPos>
+		        <audioApply value="1.00000000"/>
+		        <weight value="10"/>
+		        <turnOffExtra value="false"/>
+		        <disableBonnetCamera value="false"/>
+		        <allowBonnetSlide value="true"/>
+		      </Item>
+																		      <Item>
+				      <modelName>nriata_grille8</modelName>
+		        <modShopLabel>nriata_grille8</modShopLabel>
+		        <linkedModels/>
+          <turnOffBones>
+		        <item>misc_c</item>
+		        </turnOffBones>
+		        <type>VMT_GRILL</type>
+		        <bone>chassis</bone>
+		        <collisionBone>chassis</collisionBone>
+	         <cameraPos>VMCP_DEFAULT</cameraPos>
+		        <audioApply value="1.00000000"/>
+		        <weight value="10"/>
+		        <turnOffExtra value="false"/>
+		        <disableBonnetCamera value="false"/>
+		        <allowBonnetSlide value="true"/>
+		      </Item>
+									<!-- NRIATA_ROOF -->
+																 		   <Item>
+          <modelName>nriata_roofrack1</modelName>
+          <modShopLabel>nriata_roofrack1</modShopLabel>
+          <linkedModels />
+		        <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																 		   <Item>
+          <modelName>nriata_roofrack1</modelName>
+          <modShopLabel>nriata_roofrack1accs1</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1accs1</Item>
+										</linkedModels>
+		        <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																								 		   <Item>
+          <modelName>nriata_roofrack1</modelName>
+          <modShopLabel>nriata_roofrack1accs2</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1accs2</Item>
+										</linkedModels>
+		        <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																 		   <Item>
+          <modelName>nriata_roofrack1</modelName>
+          <modShopLabel>nriata_roofrack1accs3</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1accs2</Item>
+										<Item>nriata_roofrack1accs3</Item>
+										</linkedModels>
+		        <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																								 		   <Item>
+          <modelName>nriata_roofrack1</modelName>
+          <modShopLabel>nriata_roofrack1accs4</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1accs2</Item>
+										<Item>nriata_roofrack1accs4</Item>
+										</linkedModels>
+		        <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								 		   <Item>
+          <modelName>nriata_roof_01</modelName>
+          <modShopLabel>nriata_roof_01</modShopLabel>
+          <linkedModels />
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>misc_a</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																																 		   <Item>
+          <modelName>nriata_roof_01</modelName>
+          <modShopLabel>nriata_roof01rack1</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1</Item>
+										</linkedModels>
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																								 		   <Item>
+          <modelName>nriata_roof_01</modelName>
+          <modShopLabel>nriata_roof01rack1accs1</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1</Item>
+										<Item>nriata_roofrack1accs1</Item>
+										</linkedModels>
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																 		   <Item>
+          <modelName>nriata_roof_01</modelName>
+          <modShopLabel>nriata_roof01rack1accs2</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1</Item>
+										<Item>nriata_roofrack1accs2</Item>
+										</linkedModels>
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																 		   <Item>
+          <modelName>nriata_roof_01</modelName>
+          <modShopLabel>nriata_roof01rack1accs3</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1</Item>
+										<Item>nriata_roofrack1accs2</Item>
+										<Item>nriata_roofrack1accs3</Item>
+										</linkedModels>
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																																								 		   <Item>
+          <modelName>nriata_roof_01</modelName>
+          <modShopLabel>nriata_roof01rack1accs4</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1</Item>
+										<Item>nriata_roofrack1accs2</Item>
+										<Item>nriata_roofrack1accs4</Item>
+										</linkedModels>
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																								 		   <Item>
+          <modelName>nriata_roof_02</modelName>
+          <modShopLabel>nriata_roof_02</modShopLabel>
+          <linkedModels />
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>misc_a</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																								<Item>
+          <modelName>nriata_roof_02</modelName>
+          <modShopLabel>nriata_roof02rack1</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1</Item>
+										</linkedModels>
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																<Item>
+          <modelName>nriata_roof_02</modelName>
+          <modShopLabel>nriata_roof02rack1accs1</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1</Item>
+										<Item>nriata_roofrack1accs1</Item>
+										</linkedModels>
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>nriata_roof_02</modelName>
+          <modShopLabel>nriata_roof02rack1accs2</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1</Item>
+										<Item>nriata_roofrack1accs2</Item>
+										</linkedModels>
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>nriata_roof_02</modelName>
+          <modShopLabel>nriata_roof02rack1accs3</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1</Item>
+										<Item>nriata_roofrack1accs2</Item>
+										<Item>nriata_roofrack1accs3</Item>
+										</linkedModels>
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																<Item>
+          <modelName>nriata_roof_02</modelName>
+          <modShopLabel>nriata_roof02rack1accs4</modShopLabel>
+          <linkedModels>
+										<Item>nriata_roofrack1</Item>
+										<Item>nriata_roofrack1accs2</Item>
+										<Item>nriata_roofrack1accs4</Item>
+										</linkedModels>
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  		   <Item>
+          <modelName>nriata_noroof</modelName>
+          <modShopLabel>nriata_noroof</modShopLabel>
+          <linkedModels />
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										<Item>misc_j</Item>
+										<Item>misc_d</Item>
+										<Item>misc_e</Item>
+										<Item>windscreen_r</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+																	  		   <Item>
+          <modelName>nriata_roof_03</modelName>
+          <modShopLabel>nriata_roof_03</modShopLabel>
+          <linkedModels />
+		        <turnOffBones>
+										<Item>misc_a</Item>
+										<Item>misc_j</Item>
+										<Item>misc_d</Item>
+										<Item>misc_e</Item>
+										<Item>windscreen_r</Item>
+										</turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<!-- NRIATA_DOORS -->
+									  		   <Item>
+          <modelName>nriata_doorhinges</modelName>
+          <modShopLabel>nriata_doors1</modShopLabel>
+          <linkedModels>
+										<Item>nriata_door1a</Item>
+										<Item>nriata_door1b</Item>
+										<Item>nriata_door1c</Item>
+										<Item>nriata_door1d</Item>
+										</linkedModels>
+		        <turnOffBones>
+										<Item>door_dside_f</Item>
+										<Item>door_dside_r</Item>
+										<Item>door_pside_f</Item>
+										<Item>door_pside_r</Item>
+										</turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  		   <Item>
+          <modelName>nriata_nodoors</modelName>
+          <modShopLabel>nriata_nodoors</modShopLabel>
+          <linkedModels />
+		        <turnOffBones>
+										<Item>door_dside_f</Item>
+										<Item>door_dside_r</Item>
+										<Item>door_pside_f</Item>
+										<Item>door_pside_r</Item>
+										</turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+	  <linkMods>
+									    <Item>
+	      <modelName>nriata_door1a</modelName>
+      <bone>door_dside_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+															    <Item>
+	      <modelName>nriata_door1b</modelName>
+      <bone>door_dside_r</bone>
+      <turnOffExtra value="false" />
+      </Item>
+															    <Item>
+	      <modelName>nriata_door1c</modelName>
+      <bone>door_pside_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+															    <Item>
+	      <modelName>nriata_door1d</modelName>
+      <bone>door_pside_r</bone>
+      <turnOffExtra value="false" />
+      </Item>
+						    <Item>
+	      <modelName>nriata_headlight1_r</modelName>
+      <bone>headlight_r</bone>
+      <turnOffExtra value="false" />
+      </Item>
+			    <Item>
+	      <modelName>nriata_spoila_accs1</modelName>
+      <bone>boot</bone>
+      <turnOffExtra value="false" />
+      </Item>
+						<Item>
+	      <modelName>nriata_mudflaps_rf</modelName>
+      <bone>wing_rf</bone>
+      <turnOffExtra value="false" />
+      </Item>
+												<Item>
+	      <modelName>nriata_mudflaps_lf</modelName>
+      <bone>wing_lf</bone>
+      <turnOffExtra value="false" />
+      </Item>
+			<Item>
+	      <modelName>nriata_wing_rf_01</modelName>
+      <bone>wing_rf</bone>
+      <turnOffExtra value="false" />
+      </Item>
+						<Item>
+	      <modelName>nriata_wing_lf_01</modelName>
+      <bone>wing_lf</bone>
+      <turnOffExtra value="false" />
+      </Item>
+						<Item>
+	      <modelName>nriata_wing_rf_02</modelName>
+      <bone>wing_rf</bone>
+      <turnOffExtra value="false" />
+      </Item>
+						<Item>
+	      <modelName>nriata_wing_lf_02</modelName>
+      <bone>wing_lf</bone>
+      <turnOffExtra value="false" />
+      </Item>
+												<Item>
+	      <modelName>nriata_fbumperaccs1</modelName>
+      <bone>bumper_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+																		<Item>
+	      <modelName>nriata_fbumperaccs1b</modelName>
+      <bone>bumper_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+																								<Item>
+	      <modelName>nriata_fbumper1accs1</modelName>
+      <bone>bumper_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+																														<Item>
+	      <modelName>nriata_fbumper1accs2</modelName>
+      <bone>bumper_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+						<Item>
+	      <modelName>nriata_roofrack1</modelName>
+      <bone>chassis</bone>
+      <turnOffExtra value="false" />
+      </Item>
+						<Item>
+	      <modelName>nriata_roofrack1accs1</modelName>
+      <bone>chassis</bone>
+      <turnOffExtra value="false" />
+      </Item>
+						<Item>
+	      <modelName>nriata_roofrack1accs2</modelName>
+      <bone>chassis</bone>
+      <turnOffExtra value="false" />
+      </Item>
+						<Item>
+	      <modelName>nriata_roofrack1accs3</modelName>
+      <bone>chassis</bone>
+      <turnOffExtra value="false" />
+      </Item>
+												<Item>
+	      <modelName>nriata_roofrack1accs4</modelName>
+      <bone>chassis</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="150" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="120" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="150" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="10" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="15" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="35" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+   		<Item>
+          <identifier>DLC_AW_Airhorn_01</identifier>
+          <modifier value="3851180092" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_01_Preview</identifier>
+          <modifier value="246182814" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>DLC_AW_Airhorn_02</identifier>
+          <modifier value="3412861948" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_02_Preview</identifier>
+          <modifier value="1804608241" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>DLC_AW_Airhorn_03</identifier>
+          <modifier value="3374260066" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_03_Preview</identifier>
+          <modifier value="2798044638" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+	  <slotNames />
+      <liveryNames />
+    </Item>
+  </Kits>
+</CVehicleModelInfoVarGlobal>

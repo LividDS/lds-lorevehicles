@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+				
+      <modelName>vesper</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            1
+            1 
+            7 
+            156 
+          </indices>
+          <liveries />
+        </Item>
+								<Item>
+          <indices content="char_array">
+            112
+            112
+            112 
+            156 
+          </indices>
+          <liveries />
+        </Item>
+								 <Item>
+          <indices content="char_array">
+            7
+            7
+            5 
+            156 
+          </indices>
+          <liveries />
+        </Item>
+								<Item>
+          <indices content="char_array">
+            50
+            50
+            50 
+            156 
+          </indices>
+          <liveries />
+        </Item>
+								<Item>
+          <indices content="char_array">
+            52
+            52
+            59 
+            156 
+          </indices>
+          <liveries />
+        </Item>
+								<Item>
+          <indices content="char_array">
+            63
+            63
+            87
+            156 
+          </indices>
+          <liveries />
+        </Item>
+								<Item>
+          <indices content="char_array">
+            69
+            69
+            25
+            156 
+          </indices>
+          <liveries />
+        </Item>
+								<Item>
+          <indices content="char_array">
+            72
+            72
+            72
+            156 
+          </indices>
+          <liveries />
+        </Item>
+								<Item>
+          <indices content="char_array">
+            29
+            29
+            29
+            156 
+          </indices>
+          <liveries />
+        </Item>
+									 <Item>
+          <indices content="char_array">
+            60
+            60
+            111
+            156 
+          </indices>
+          <liveries />
+        </Item>
+								<Item>
+          <indices content="char_array">
+            34
+            34
+            28
+            156 
+          </indices>
+          <liveries />
+        </Item>
+																<Item>
+          <indices content="char_array">
+            119
+            119
+            157
+            156 
+          </indices>
+          <liveries />
+        </Item>
+						 </colors>
+						<kits>
+        <Item>701_sport_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+ </variationData>
+</CVehicleModelInfoVariation>

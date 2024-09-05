@@ -1,0 +1,2722 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+     <Item>
+      <kitName>4694_tfdominator_modkit</kitName>
+      <id value="4694" />
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+	  	  <!-- LIVERY -->
+		<Item>
+          <modelName>tfdom_livery_01</modelName>
+          <modShopLabel>tfdom_livery_01</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_livery_02</modelName>
+          <modShopLabel>tfdom_livery_02</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_livery_03</modelName>
+          <modShopLabel>tfdom_livery_03</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_livery_04</modelName>
+          <modShopLabel>tfdom_livery_04</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_livery_05</modelName>
+          <modShopLabel>tfdom_livery_05</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_livery_06</modelName>
+          <modShopLabel>tfdom_livery_06</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_livery_07</modelName>
+          <modShopLabel>tfdom_livery_07</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_livery_08</modelName>
+          <modShopLabel>tfdom_livery_08</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_livery_09</modelName>
+          <modShopLabel>tfdom_livery_09</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+						<Item>
+          <modelName>tfdom_livery_10</modelName>
+          <modShopLabel>tfdom_livery_10</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_livery_11</modelName>
+          <modShopLabel>tfdom_livery_11</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_livery_12</modelName>
+          <modShopLabel>tfdom_livery_12</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_livery_13</modelName>
+          <modShopLabel>tfdom_livery_13</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_livery_14</modelName>
+          <modShopLabel>tfdom_livery_14</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_livery_15</modelName>
+          <modShopLabel>tfdom_livery_15</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_livery_16</modelName>
+          <modShopLabel>tfdom_livery_16</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_livery_17</modelName>
+          <modShopLabel>tfdom_livery_17</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_livery_18</modelName>
+          <modShopLabel>tfdom_livery_18</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_livery_19</modelName>
+          <modShopLabel>tfdom_livery_19</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  </turnOffBones> 
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  	  	      <!-- MIRRORS -->
+		  <Item>
+		  <modelName>tfdom_mirror_1a</modelName>
+          <modShopLabel>tfdom_mirror_1a</modShopLabel>
+          <linkedModels>
+		  <item>tfdom_mirror_1b</item>
+		  </linkedModels>
+          <turnOffBones>
+		  <Item>misc_k</Item>
+		  <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				  <Item>
+		  <modelName>tfdom_mirror_2a</modelName>
+          <modShopLabel>tfdom_mirror_2a</modShopLabel>
+          <linkedModels>
+		  <item>tfdom_mirror_2b</item>
+		  </linkedModels>
+          <turnOffBones>
+		  <Item>misc_k</Item>
+		  <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				  <Item>
+		  <modelName>tfdom_mirror_3a</modelName>
+          <modShopLabel>tfdom_mirror_3a</modShopLabel>
+          <linkedModels>
+		  <item>tfdom_mirror_3b</item>
+		  </linkedModels>
+          <turnOffBones>
+		  <Item>misc_k</Item>
+		  <Item>misc_j</Item>
+		  </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- EXHAUST -->			
+		<Item>
+          <modelName>tfdom_exh1</modelName>
+          <modShopLabel>tfdom_exh1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+         	<Item>misc_i</Item>		
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_exh2</modelName>
+          <modShopLabel>tfdom_exh2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+         	<Item>misc_i</Item>		
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_exh3</modelName>
+          <modShopLabel>tfdom_exh3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+         	<Item>misc_i</Item>		
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_exh4</modelName>
+          <modShopLabel>tfdom_exh4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+         	<Item>misc_i</Item>		
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  	  	  <!-- HEADLIGHTS -->	
+			  <Item>
+          <modelName>tfdom_headlight1a</modelName>
+          <modShopLabel>tfdom_headlight1a</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_headlight1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_u</Item>
+		  <Item>misc_v</Item>
+		  </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>headlight_l</bone>
+          <collisionBone>headlight_l</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<!-- HOOD PINS -->	
+			  <Item>
+          <modelName>tfdom_hudpin_1</modelName>
+          <modShopLabel>tfdom_hudpin_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_hudpin_2</modelName>
+          <modShopLabel>tfdom_hudpin_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_hudpin_3</modelName>
+          <modShopLabel>tfdom_hudpin_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_hudpin_4</modelName>
+          <modShopLabel>tfdom_hudpin_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_hudpin_5</modelName>
+          <modShopLabel>tfdom_hudpin_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_hudpin_6</modelName>
+          <modShopLabel>tfdom_hudpin_6</modShopLabel>
+          <linkedModels />
+          <turnOffBones	/>
+          <type>VMT_CHASSIS3</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  	  <!-- TAILLIGHTS -->	
+			  <Item>
+          <modelName>tfdom_taillight_01</modelName>
+          <modShopLabel>tfdom_taillight_01</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_CHASSIS4</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <!-- SPOILER -->	
+	  			  <Item>
+          <modelName>tfdom_wingaccs1a</modelName>
+          <modShopLabel>tfdom_wingaccs1a</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+			  			  <Item>
+          <modelName>tfdom_wingaccs2a</modelName>
+          <modShopLabel>tfdom_wingaccs2a</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+			  <Item>
+          <modelName>tfdom_wing4</modelName>
+          <modShopLabel>tfdom_wing4</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+			  <Item>
+          <modelName>tfdom_wing4</modelName>
+          <modShopLabel>tfdom_wing4accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1a</Item>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+			  <Item>
+          <modelName>tfdom_wing4</modelName>
+          <modShopLabel>tfdom_wing4accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2a</Item>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+			  <Item>
+          <modelName>tfdom_wing5</modelName>
+          <modShopLabel>tfdom_wing5</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+			  <Item>
+          <modelName>tfdom_wing5</modelName>
+          <modShopLabel>tfdom_wing5accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1a</Item>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_wing5</modelName>
+          <modShopLabel>tfdom_wing5accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2a</Item>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+			  <Item>
+          <modelName>tfdom_wing6</modelName>
+          <modShopLabel>tfdom_wing6</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_wing6</modelName>
+          <modShopLabel>tfdom_wing6accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1a</Item>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_wing6</modelName>
+          <modShopLabel>tfdom_wing6accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2a</Item>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_wing7</modelName>
+          <modShopLabel>tfdom_wing7</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+							  <Item>
+          <modelName>tfdom_wing7</modelName>
+          <modShopLabel>tfdom_wing7accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1a</Item>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+							  <Item>
+          <modelName>tfdom_wing7</modelName>
+          <modShopLabel>tfdom_wing7accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2a</Item>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_wing8</modelName>
+          <modShopLabel>tfdom_wing8</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing8</modelName>
+          <modShopLabel>tfdom_wing8accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1a</Item>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing8</modelName>
+          <modShopLabel>tfdom_wing8accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2a</Item>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_wing9</modelName>
+          <modShopLabel>tfdom_wing9</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing9</modelName>
+          <modShopLabel>tfdom_wing9accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1a</Item>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing9</modelName>
+          <modShopLabel>tfdom_wing9accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2a</Item>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_wing10</modelName>
+          <modShopLabel>tfdom_wing10</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing10</modelName>
+          <modShopLabel>tfdom_wing10accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1a</Item>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing10</modelName>
+          <modShopLabel>tfdom_wing10accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2a</Item>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_wing11</modelName>
+          <modShopLabel>tfdom_wing11</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing11</modelName>
+          <modShopLabel>tfdom_wing11accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1a</Item>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing11</modelName>
+          <modShopLabel>tfdom_wing11accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2a</Item>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_wing12</modelName>
+          <modShopLabel>tfdom_wing12</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing12</modelName>
+          <modShopLabel>tfdom_wing12accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1a</Item>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing12</modelName>
+          <modShopLabel>tfdom_wing12accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2a</Item>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_wing13</modelName>
+          <modShopLabel>tfdom_wing13</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing13</modelName>
+          <modShopLabel>tfdom_wing13accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1a</Item>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing13</modelName>
+          <modShopLabel>tfdom_wing13accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2a</Item>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_wing14</modelName>
+          <modShopLabel>tfdom_wing14</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing14</modelName>
+          <modShopLabel>tfdom_wing14accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1a</Item>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing14</modelName>
+          <modShopLabel>tfdom_wing14accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2a</Item>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_wing15</modelName>
+          <modShopLabel>tfdom_wing15</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing15</modelName>
+          <modShopLabel>tfdom_wing15accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs1a</Item>
+		  <Item>tfdom_wingaccs1b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+									  <Item>
+          <modelName>tfdom_wing15</modelName>
+          <modShopLabel>tfdom_wing15accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_wingaccs2a</Item>
+		  <Item>tfdom_wingaccs2b</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_t</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_boot1</modelName>
+          <modShopLabel>tfdom_boot1</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_n</Item>
+		  <Item>misc_p</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+						<Item>
+          <modelName>tfdom_wing16</modelName>
+          <modShopLabel>tfdom_wing16</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_boot1</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_n</Item>
+		  <Item>misc_p</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_wing17</modelName>
+          <modShopLabel>tfdom_wing17</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_boot1</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_n</Item>
+		  <Item>misc_p</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_wing18</modelName>
+          <modShopLabel>tfdom_wing18</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_boot1</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_n</Item>
+		  <Item>misc_p</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_wing19</modelName>
+          <modShopLabel>tfdom_wing19</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_boot1</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_n</Item>
+		  <Item>misc_p</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_wing20</modelName>
+          <modShopLabel>tfdom_wing20</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_boot1</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_n</Item>
+		  <Item>misc_p</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+								<Item>
+          <modelName>tfdom_wing21</modelName>
+          <modShopLabel>tfdom_wing21</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_boot1</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_n</Item>
+		  <Item>misc_p</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<!-- BONNET -->
+        <Item>
+          <modelName>tfdom_bonnet_01</modelName>
+          <modShopLabel>tfdom_bonnet_01</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_02</modelName>
+          <modShopLabel>tfdom_bonnet_02</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_03</modelName>
+          <modShopLabel>tfdom_bonnet_03</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_04</modelName>
+          <modShopLabel>tfdom_bonnet_04</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_05</modelName>
+          <modShopLabel>tfdom_bonnet_05</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_06</modelName>
+          <modShopLabel>tfdom_bonnet_06</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_07</modelName>
+          <modShopLabel>tfdom_bonnet_07</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_08</modelName>
+          <modShopLabel>tfdom_bonnet_08</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_09</modelName>
+          <modShopLabel>tfdom_bonnet_09</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_10</modelName>
+          <modShopLabel>tfdom_bonnet_10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_11</modelName>
+          <modShopLabel>tfdom_bonnet_11</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_12</modelName>
+          <modShopLabel>tfdom_bonnet_12</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_13</modelName>
+          <modShopLabel>tfdom_bonnet_13</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_14</modelName>
+          <modShopLabel>tfdom_bonnet_14</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		        <Item>
+          <modelName>tfdom_bonnet_15</modelName>
+          <modShopLabel>tfdom_bonnet_15</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				        <Item>
+          <modelName>tfdom_bonnet_16</modelName>
+          <modShopLabel>tfdom_bonnet_16</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bonnet</item>
+		  </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <!-- ROOF -->	
+		<Item>
+          <modelName>tfdom_roof_01</modelName>
+          <modShopLabel>tfdom_roof_01</modShopLabel>
+		  <linkedModels />
+          <turnOffBones>
+		  <item>misc_f</item>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_roof_02</modelName>
+          <modShopLabel>tfdom_roof_02</modShopLabel>
+		  <linkedModels />
+          <turnOffBones>
+		  <item>misc_f</item>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_roof_03</modelName>
+          <modShopLabel>tfdom_roof_03</modShopLabel>
+		  <linkedModels />
+          <turnOffBones>
+		  <item>misc_f</item>
+		  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <!-- GRILLE -->	
+		<Item>
+          <modelName>tfdom_grille_01</modelName>
+          <modShopLabel>tfdom_grille_01</modShopLabel>
+		  <linkedModels />
+          <turnOffBones>
+		  <item>misc_c</item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_grille_01</modelName>
+          <modShopLabel>tfdom_grille_01_lite</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_grillelite1</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  <item>misc_c</item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>tfdom_grille_02</modelName>
+          <modShopLabel>tfdom_grille_02</modShopLabel>
+		  <linkedModels />
+          <turnOffBones>
+		  <item>misc_c</item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+						<Item>
+          <modelName>tfdom_grille_02</modelName>
+          <modShopLabel>tfdom_grille_02_lite</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_grillelite1</Item>
+		  </linkedModels>
+          <turnOffBones>
+		  <item>misc_c</item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_grille_03</modelName>
+          <modShopLabel>tfdom_grille_03</modShopLabel>
+		  <linkedModels />
+          <turnOffBones>
+		  <item>misc_c</item>
+		  </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+			  <!-- FRONT BUMPER -->	
+		<Item>
+          <modelName>tfdom_fbumperaccs1</modelName>
+          <modShopLabel>tfdom_fbumperaccs1</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_fbumperaccs2</modelName>
+          <modShopLabel>tfdom_fbumperaccs2</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+				<Item>
+          <modelName>tfdom_fbumperaccs3</modelName>
+          <modShopLabel>tfdom_fbumperaccs3</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+						<Item>
+          <modelName>tfdom_fbumperaccs4</modelName>
+          <modShopLabel>tfdom_fbumperaccs4</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>tfdom_fbumper1</modelName>
+          <modShopLabel>tfdom_fbumper1</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones>
+		  <Item>misc_e</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+			  <Item>
+          <modelName>tfdom_fbumper1</modelName>
+          <modShopLabel>tfdom_fbumper1accs1</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_fbumper1accs1</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_e</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_fbumper1</modelName>
+          <modShopLabel>tfdom_fbumper1accs2</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_fbumper1accs2</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_e</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_fbumper1</modelName>
+          <modShopLabel>tfdom_fbumper1accs3</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_fbumper1accs3</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_e</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+					  <Item>
+          <modelName>tfdom_fbumper1</modelName>
+          <modShopLabel>tfdom_fbumper1accs4</modShopLabel>
+		  <linkedModels>
+		  <Item>tfdom_fbumper1accs4</Item>
+		  </linkedModels>
+		  <turnOffBones>
+		  <Item>misc_e</Item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<!-- INTERIOR -->	
+			  <Item>
+          <modelName>tfdom_interior1</modelName>
+          <modShopLabel>tfdom_interior1</modShopLabel>
+          <linkedModels>
+		  <Item>tfdom_door_l1</Item>
+          <Item>tfdom_door_r1</Item>
+		  </linkedModels>
+          <turnOffBones>
+          <Item>misc_q</Item>
+		  <Item>misc_r</Item>
+          <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+			<!-- STEERING WHEELS -->	
+        <Item>
+          <modelName>tfdom_stwheel1</modelName>
+          <modShopLabel>tfdom_stwheel1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+	  <linkMods>
+	  	  	  	  <Item>
+	  <modelName>tfdom_mirror_1b</modelName>
+      <bone>door_pside_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  	  	  	  	  <Item>
+	  <modelName>tfdom_mirror_2b</modelName>
+      <bone>door_pside_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  	  	  	  	  <Item>
+	  <modelName>tfdom_mirror_3b</modelName>
+      <bone>door_pside_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  	  	  <Item>
+	  <modelName>tfdom_boot1</modelName>
+      <bone>boot</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  	  <Item>
+	  <modelName>tfdom_grillelite1</modelName>
+      <bone>bumper_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  <Item>
+	  <modelName>tfdom_headlight1b</modelName>
+      <bone>headlight_r</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  	  	  	  <Item>
+	  <modelName>tfdom_wingaccs1a</modelName>
+      <bone>boot</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  	  <Item>
+	  <modelName>tfdom_wingaccs1b</modelName>
+      <bone>chassis</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  	  	  <Item>
+	  <modelName>tfdom_wingaccs2a</modelName>
+      <bone>boot</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  	  <Item>
+	  <modelName>tfdom_wingaccs2b</modelName>
+      <bone>chassis</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  <Item>
+	  <modelName>tfdom_fbumper1accs1</modelName>
+      <bone>bumper_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  	  <Item>
+	  <modelName>tfdom_fbumper1accs2</modelName>
+      <bone>bumper_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  	  <Item>
+	  <modelName>tfdom_fbumper1accs3</modelName>
+      <bone>bumper_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  	  <Item>
+	  <modelName>tfdom_fbumper1accs4</modelName>
+      <bone>bumper_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  <Item>
+	  <modelName>tfdom_door_l1</modelName>
+      <bone>door_dside_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  <Item>
+	  <modelName>tfdom_door_r1</modelName>
+      <bone>door_pside_f</bone>
+      <turnOffExtra value="false" />
+      </Item>
+	  </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="175" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="120" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="200" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="10" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="15" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="35" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+   		<Item>
+          <identifier>DLC_AW_Airhorn_01</identifier>
+          <modifier value="3851180092" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_01_Preview</identifier>
+          <modifier value="246182814" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>DLC_AW_Airhorn_02</identifier>
+          <modifier value="3412861948" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_02_Preview</identifier>
+          <modifier value="1804608241" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>DLC_AW_Airhorn_03</identifier>
+          <modifier value="3374260066" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>DLC_AW_Airhorn_03_Preview</identifier>
+          <modifier value="2798044638" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+	  <slotNames>
+		<Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>TOP_CAGE</name>
+        </Item>
+		<Item>
+          <slot>VMT_CHASSIS2</slot>
+          <name>TOP_HL_CV</name>
+        </Item>
+		<Item>
+          <slot>VMT_CHASSIS3</slot>
+          <name>TOP_CATCH</name>
+        </Item>
+		<Item>
+          <slot>VMT_CHASSIS5</slot>
+          <name>TOP_INTERCOOL</name>
+        </Item>
+		<Item>
+          <slot>VMT_INTERIOR1</slot>
+          <name>TOP_SUNST</name>
+        </Item>
+		<Item>
+          <slot>VMT_PLTVANITY</slot>
+          <name>TOP_SPLIT</name>
+        </Item>
+		<Item>
+          <slot>VMT_ROOF</slot>
+          <name>TOP_LOUV</name>
+        </Item>
+      </slotNames>
+      <liveryNames />
+    </Item>
+  </Kits>
+</CVehicleModelInfoVarGlobal>
