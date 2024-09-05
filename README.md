@@ -12,6 +12,7 @@ A large collection of high quality, lore friendly vehicles converted from GTA5-m
 
 # Install 🔧
 * Drag and drop `lds-lorevehicles` into your resources folder.
+* Remove `-main` from the end of the foldername.
 * Ensure `lds-lorevehicles` in your `server.cfg`.
 
 # Support 📞
