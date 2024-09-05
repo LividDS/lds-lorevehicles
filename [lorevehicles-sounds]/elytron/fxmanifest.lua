@@ -11,7 +11,7 @@ files {
 	'audio/sfx/dlc_bfely/bfely_npc.awc',
 }
 
-data_file 'AUDIO_GAMEDATA' 'audio/bfel_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audio/bfel_sounds.dat'
-data_file 'AUDIO_SYNTHDATA' 'audio/bfel_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audio/bfely_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/bfely_sounds.dat'
+data_file 'AUDIO_SYNTHDATA' 'audio/bfely_amp.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_taipans'

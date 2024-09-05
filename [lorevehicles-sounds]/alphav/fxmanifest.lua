@@ -5,7 +5,7 @@ game 'gta5'
 files {
   'audio/*.dat151.rel',
   'audio/*.dat54.rel',
-  'sfx/**/*.awc'
+  'audio/sfx/**/*.awc'
 }
 
 data_file 'AUDIO_GAMEDATA' 'audio/alphav_game.dat'
