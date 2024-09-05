@@ -1,9 +1,9 @@
 # lds-lorevehicles 🚗
 A large collection of high quality, lore friendly vehicles converted from GTA5-mods popular creators.
 
-* 118 cars included.
-* 43 having custom sounds.
-* 94 of them having vehicle mod options for your customs script.
+* 116 cars included.
+* 42 having custom sounds.
+* 92 of them having vehicle mod options for your customs script.
 
 # Important ⚠️
 * All credits to go the original creators of these vehicles. These vehicles may be removed from the pack if the owners will it.
