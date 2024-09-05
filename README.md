@@ -1,4 +1,4 @@
-# lds-lorevehicles
+# lds-lorevehicles 🚗
 A large collection of high quality, lore friendly vehicles converted from GTA5-mods popular creators.
 
 * 120 cars included.
@@ -10,16 +10,16 @@ A large collection of high quality, lore friendly vehicles converted from GTA5-m
 * Treat all vehicles in this pack as the following: *Modifying this package and it's contents except the text data such as handling, meta files and mod-kit, uploading or hosting it elsewhere as is or in a modified state and selling, paywalling or monetizing in any shape or form is prohibited.*
 * All vehicles can not be used as donator cars and can not be exclusive to one person.
 
-# Install
+# Install 🔧
 * Drag and drop `lds-lorevehicles` into your resources folder.
 * Ensure `lds-lorevehicles` in your `server.cfg`.
 
-# Support
+# Support 📞
 * I will not offer support on any of these vehicles, everything on my part is in the README. If you want to change any handling files (which for some it's needed), you need to configure it yourself.
 * The initial uploaded pack is all I will be providing, which are working in the state it's in your resources folder after having completed the installation above.
 
-# Credits
+# Credits ✨
 
-# Contribute
+# Contribute ❤️
 * If you wish to contribute to this pack by adding vehicles or doing text data file changes, please make a PR. Make sure to link the vehicle from GTA5-mods and keep the original format of uploading.
 * I will be checking before merching if it has been done correctly, which might take some time as I won't be checking this resource daily.
