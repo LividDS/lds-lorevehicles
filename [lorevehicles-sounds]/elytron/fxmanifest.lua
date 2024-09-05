@@ -1,8 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
 
-client_script 'vehicle_names.lua'
-
 files {
     'audio/bfely_amp.dat10.rel',
 	'audio/bfely_game.dat151.rel',
