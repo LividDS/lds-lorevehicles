@@ -15,6 +15,7 @@ A large collection of high quality, lore friendly vehicles converted from GTA5-m
 3. Take `[lorevehicles-sounds]` and put it into the resources folder seperately.
 4. Ensure `lds-lorevehicles` and `[lorevehicles-sounds]` in your `server.cfg`.
 **NOTE:** Load `[lorevehicles-sounds]` BEFORE `lds-lorevehicles`.
+5. You will need to add these to your `vehicles.lua` to your core resource in order to own them and sell them in your vehicleshops.
 
 # Support 📞
 * I will not offer support on any of these vehicles, everything on my part is in the README. If you want to change any handling files (which for some it's needed), you need to configure it yourself.
