@@ -1,9 +1,12 @@
 # lds-lorevehicles 🚗
+**IF YOU DOWNLOADED THIS PACK BEFORE LAST COMMIT ON 9-9-2024, REDOWNLOAD NOW.**
+Had some issues with publishing rights and rights for usage on FiveM servers. So to avoid trouble I highly recommend to take the resource out and redownload.
+
 A large collection of high quality, lore friendly vehicles converted from GTA5-mods popular creators.
 
-* 116 cars included.
-* 42 having custom sounds.
-* 92 of them having vehicle mod options for your customs script.
+* 90 cars included.
+* 29 having custom sounds.
+* 75 of them having vehicle mod options for your customs script.
 
 # Important ⚠️
 * Treat all vehicles in this pack as the following: *Modifying this package and it's contents except the text data such as handling, meta files and mod-kit, uploading or hosting it elsewhere as is or in a modified state and selling, paywalling or monetizing in any shape or form is prohibited.*
