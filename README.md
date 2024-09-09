@@ -9,7 +9,7 @@ A large collection of high quality, lore friendly vehicles converted from GTA5-m
 * 75 of them having vehicle mod options for your customs script.
 
 # Important ⚠️
-* Treat all vehicles in this pack as the following: *Modifying this package and it's contents except the text data such as handling, meta files and mod-kit, uploading or hosting it elsewhere as is or in a modified state and selling, paywalling or monetizing in any shape or form is prohibited.*
+* Treat all vehicles in this pack as the following: *Modifying this package and it's contents except the text data such as handling, meta files and mod-kit, selling, paywalling or monetizing in any shape or form is prohibited.*
 * All vehicles can not be used as donator cars and can not be exclusive to one person.
 
 # Install 🔧
