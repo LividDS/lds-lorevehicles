@@ -6,7 +6,7 @@ files {
   'audio/*.dat151.rel',
   'audio/*.dat54.rel',
   'audio/*.dat10.rel',
-  'sfx/**/*.awc'
+  'sfx/*/*.awc'
 }
 
 data_file 'AUDIO_GAMEDATA' 'audio/scharmann_game.dat'
